@@ -1,4 +1,4 @@
 # 👨🏻‍💻 MINIPROJECT DATABASE
 # 💻🎯🪄
-+ 👣 install your mysql and mongodb
+# + 👣 install your mysql and mongodb
   
